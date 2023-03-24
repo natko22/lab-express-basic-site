@@ -1,0 +1,68 @@
+body {
+  background-color: azure;
+  padding: 10px;
+}
+
+h1{
+  font-family: dancing script;
+  font-size: 80px;
+  text-align: center;
+}
+
+ul, li, a {
+  list-style: none;
+  text-decoration: none;
+  font-size: 30px;
+  font-family: dancing script;
+  color: black;
+  padding: 5px;
+  margin: 10px;
+
+}
+
+.about-p {
+  font-family: caveat;
+  font-size: 30px;
+}
+
+.work-p {
+  font-family: caveat;
+  font-size: 20px;
+}
+img {
+  max-width: 200px;
+}
+
+.image1 {
+  width: 200px;
+  height: auto;
+  position:relative;
+  padding: 50px;
+  margin: 10px;
+}
+.image2 {
+  width: 200px;
+  position: relative;
+  padding: 50px;
+  margin: 10px;
+}
+.image3 {
+  width:300px;
+  position: relative;
+  padding: 50px;
+  margin: 10px;
+
+}
+.image4 {
+  width:300px;
+  position: relative;
+  padding: 50px;
+  margin: 10px;
+
+}
+.image5 {
+  width:200px;
+  position: relative;
+  padding: 50px;
+  margin: 20px;
+}
